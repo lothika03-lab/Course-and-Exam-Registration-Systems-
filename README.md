@@ -1,7 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
+# Reg No: 212225040211
+# Name: Lothika M
 # Date:
 
 
